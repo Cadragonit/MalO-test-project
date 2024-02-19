@@ -8,4 +8,4 @@
 P.S.
 ---
 
-(в будующем будет android studio studio, я учусь)
+(в будующем будет android studio, я учусь)
