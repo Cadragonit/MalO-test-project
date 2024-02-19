@@ -1,6 +1,6 @@
 # MalO-test-project
 ![Static Badge](https://img.shields.io/badge/MIT%20-%20App%20Inventor%20-%20green?style=plastic&logo=android&logoColor=333&labelColor=orange&color=green&link=https%3A%2F%2Fappinventor.mit.edu)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/Cadragonit/MalO-test-project?style=plastic&logo=gitlfs&logoColor=white&labelColor=blue&color=333)
 
 Пытаюсь воссоздать приложение [MalO](https://scpfoundation.net/scp-1471)
 
